@@ -1,20 +1,38 @@
 ### Digital Profile
 # Natvara Pichedpan
+### Data Science Student
 
-You can use the [editor on GitHub](https://github.com/LEWYONGWU/TU107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Education
 
-# Header 1
-## Header 2
-### Header 3
+2021-now    Bachelor of Science Program in Data Science and Innovation
+            Thammasat Universiy
+
+2008-2020   Saint Joseph Convent school
+```
+```markdown
+
+# Skill
+
+-Thai Dulcimer (Khim)
+-Thai Traditional Dance
+```
+```markdown
+
+# Contact
+
+**Email:** Natvara.pic@dome.tu.ac.th
+```
+```markdown
+
+# Activity
+
+-Legal Contest
+```
 
 - Bulleted
 - List
