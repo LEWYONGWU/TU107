@@ -1,7 +1,9 @@
 #### DIGITAL CURRICULUM VITAE (TU107)
 # NATVARA PICHEDPAN 
 #### Data Science Student
+<p align="center">
 <img src="https://user-images.githubusercontent.com/94485177/143612259-02de4450-61f0-498c-8974-0734a5d54f3c.png" width="350" height="350">
+</p>
 
 ## ABOUT ME
 ```markdown
