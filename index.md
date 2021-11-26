@@ -1,7 +1,8 @@
-#### ONLINE CURRICULUM VITAE (TU107)
+#### DIGITAL CURRICULUM VITAE (TU107)
 # NATVARA PICHEDPAN 
 #### Data Science Student
-![LYdiploma](https://user-images.githubusercontent.com/94485177/143612259-02de4450-61f0-498c-8974-0734a5d54f3c.png)
+<img src="https://user-images.githubusercontent.com/94485177/143612259-02de4450-61f0-498c-8974-0734a5d54f3c.png" width="350" height="350">
+
 ## ABOUT ME
 ```markdown
 Date of Birth:      29 August 2001
