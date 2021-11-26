@@ -1,37 +1,41 @@
-### Digital Profile
-# Natvara Pichedpan
-### Data Science Student
-
-
-
-
-
+#### ONLINE CURRICULUM VITAE (TU107)
+# NATVARA PICHEDPAN 
+## ABOUT ME
+ 
 ```markdown
+
+```
 # Education
+```markdown
 
 2021-now    Bachelor of Science Program in Data Science and Innovation
             Thammasat Universiy
 
 2008-2020   Saint Joseph Convent school
 ```
+# Skills
 ```markdown
+Programming Language: Python
+Language: 
+Thai                    Native
+English                 Full
+Chinese                 Limited
+Other skills:
+Thai Dulcimer (Khim)
+Thai Traditional Dance
 
-# Skill
-
--Thai Dulcimer (Khim)
--Thai Traditional Dance
 ```
-```markdown
-
-# Contact
-
-**Email:** Natvara.pic@dome.tu.ac.th
-```
-```markdown
-
 # Activity
-
+```markdown
 -Legal Contest
+```
+# Contact
+```markdown
+E-mail: Natvara.pic@dome.tu.ac.th
+
+
+
+
 ```
 
 - Bulleted
